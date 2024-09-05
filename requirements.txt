@@ -1,0 +1,6 @@
+psycopg2-binary 
+boto3
+pandas
+numpy
+openpyxl
+sqlalchemy
